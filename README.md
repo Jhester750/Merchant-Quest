@@ -1,5 +1,6 @@
 # WW1-Project (Merchant Quest)
-A fun school project about U-Boats in World War 1.
+By Jack Hester and Neil Estrada
+A fun school project about U-Boats in World War 1. 
 
 IMPORTANT NOTE FOR WINDOWS USERS
 - There are noticeable visual glitches when running on Windows, though it should run fine on Mac OS.
