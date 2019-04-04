@@ -16,7 +16,7 @@ CONTROLS
 - Use the SPACEBAR to start the game and to go to the next level
 
 HOW TO PLAY
-1. Download blue j version 3.7
+1. Download blue j version 3.1.7
 2. Download final version of project
 3. Open project in blue j
 4. Right click on class "WorldWar", run applet, and press ok
